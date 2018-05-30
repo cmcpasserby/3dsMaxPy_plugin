@@ -40,6 +40,6 @@ class MaxSDKFlavor private constructor() : PythonSdkFlavor() {
     }
 }
 
-class MaxFavorProvider : PythonFlavorProvider {
+class MaxFlavorProvider : PythonFlavorProvider {
     override fun getFlavor(platformIndependent: Boolean) = MaxSDKFlavor.INSTANCE
 }

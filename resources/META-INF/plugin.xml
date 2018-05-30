@@ -23,7 +23,7 @@
   </extensions>
 
   <extensions defaultExtensionNs="Pythonid">
-    <pythonFlavorProvider implementation="ca.rightsomegoodgames.maxpy.MaxFavorProvider"/>
+    <pythonFlavorProvider implementation="ca.rightsomegoodgames.maxpy.MaxFlavorProvider"/>
   </extensions>
 
   <actions>
