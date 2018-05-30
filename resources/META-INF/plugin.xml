@@ -1,12 +1,11 @@
 <idea-plugin>
     <id>ca.rightsomegoodgames.maxpy</id>
-    <name>maxpy</name>
+    <name>3dsMaxPy Support</name>
     <version>1.0.0</version>
     <vendor email="chris@rightsomegoodgames.ca">Chris Cunningham</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+  <p>Simple interpreter support for the 3dsMaxPy python interpreter for PyCharm.</p>
     ]]></description>
 
   <change-notes><![CDATA[
