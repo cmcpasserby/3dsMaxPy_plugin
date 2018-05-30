@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>ca.rightsomegoodgames.maxpy</id>
     <name>3dsMaxPy Support</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <vendor email="chris@rightsomegoodgames.ca">Chris Cunningham</vendor>
 
   <description><![CDATA[
